@@ -1,0 +1,11 @@
+.inputHighlight{
+    width: 90%;
+    height: 40px;
+}
+.submitHighlight{
+    background-color:#3f90fc;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    padding: 3px 9px;
+}

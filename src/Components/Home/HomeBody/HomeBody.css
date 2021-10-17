@@ -1,0 +1,24 @@
+#input-highlight{
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    border-right: none;
+width: 340px;
+height: 50px;
+border: none;
+background-color:wheat;
+}
+#button-highlight{
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
+        border-left: none;
+    height: 52px;
+    width: 100px;
+    background-color: #3f90fc;
+    border: none;
+    color: white;
+}
+.gjlgkdfjgl{
+  
+
+   
+}

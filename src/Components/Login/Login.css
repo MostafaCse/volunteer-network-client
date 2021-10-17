@@ -1,0 +1,23 @@
+.imgHandling{
+  width: 20%;
+}
+.btnHighlight{
+    width: 60%;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0 auto;
+   
+}
+.boxHighlight{
+    width: 45%;
+  
+    border: 1px solid grey;
+    text-align: center;
+}
+#createBtnHighlight{
+    margin-bottom: 20%;
+    border: none;
+    color: blue;
+    text-decoration: underline;
+   
+}

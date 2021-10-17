@@ -1,0 +1,12 @@
+.nav-highlight{
+    border-radius: 5px;
+   width: 100px;
+   height: 40px;
+   text-align: center;
+   padding-top: 7px;
+   text-decoration: none;
+   }
+   .standardItem{
+       text-decoration: none;
+       color: black;
+   }
